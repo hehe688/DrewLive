@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
+https://vr2.packcast.top/auth/94.m3u8?token=8ClG7fLrOEN5P_oprpDPQt-eb5CsRmK9n72bqCDzwoaC6xJEST3rw9zdy2cpwqw3dOXJn9aWLcETbIw5Ljsn7MFxeLKcv4QXZmj8159DoiRdAkFTQz00vHw4uv2Pf6Kkr2lPDuDbf77uSCM2_nf0P4UgYeI5oB3FV3nUROym_LB_5iU1Ecqanlv0Zm77zODRsHjvDBd7kgvXFRDi5tQ9JvmkH3QFVfOXHzMZFWNVwUUsb-Gz_wNt8VtyM-p_0FL92JKKJrvSEDHLO4gnwGsk7iicbcW7so1LwdfuQFjecY-0lRxZkPhUtYL2A7yRkDRVk6b6vXGvEel_aUKKtq-t_LxHRj5LyOAaNTm8PX5dJZQd0ssDjcADZPjBxq9e-bw7TYvDkX_5JcQOepgaorBiXFgnzPbrnisXy-6fXGvyG0ATxykoLWUvUPvsQpNy73Z_NIdKl-5Fg9dGzt9oTbyCe98GcUWiFFuXYAXBSxRQi6Tr9CA1bVK1UwHjZlmiXEnwnoUtXF-JlYuUn_bqP9PNe25zlR6l7n3-_l3s5oNlT5Il-54gagzhBKr-skkQPLpQWXMmYsljR-6QK60J_F9uXg
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Ducks @ Canadiens
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
